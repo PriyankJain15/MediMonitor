@@ -1,0 +1,40 @@
+# --- Flutter & Dart ---
+.dart_tool/
+.buildlog/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_export_environment.sh
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# --- IDE/Editor ---
+.idea/
+*.iml
+.vscode/            # keep only if you want shared settings; otherwise ignore
+.DS_Store
+
+# --- Env & Secrets (do NOT commit) ---
+.env
+.env.*
+!.env.example
+.firebase/
+firebase-admin-*.json
+**/key.properties
+**/local.properties
+*.keystore
+*.keystore.*
+*.jks
+*.p12
+*.pem
+
+# --- iOS/macOS signing (never commit private certs) ---
+ios/Runner/Config/*.xcconfig
+*.mobileprovision
+*.provisionprofile
+*.cer
+
+# --- Optional: If you DON’T want to commit client Firebase configs ---
+# android/app/google-services.json
+# ios/Runner/GoogleService-Info.plist
