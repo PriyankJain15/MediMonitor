@@ -79,7 +79,7 @@ The goal of this app is to make **medicine management simple, organized, and acc
 
 ## 📥 Download
 You can download the latest APK here:  
-[📥 **Download MediMonitor v1.0**](https://github.com/yourusername/medimonitor/release/MediMonitor.apk)
+[📥 **Download MediMonitor v1.0**](release/MediMonitor.apk)
 
 ---
 
