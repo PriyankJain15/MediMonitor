@@ -1,6 +1,6 @@
 💊 MediMonitor
 
-📖 Description
+📖 Description: 
 The **MediMonitor** is a Flutter + Firebase mobile application designed to help users efficiently track and manage their medication schedules.  
 It provides a **calendar-based view**, PDF reports, and the ability to **share medicine schedules with others** in read-only mode.  
 This app is especially useful for people who take multiple medicines daily, caretakers managing schedules for others, and health professionals who monitor patients remotely.
